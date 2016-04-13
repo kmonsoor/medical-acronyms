@@ -1,0 +1,662 @@
+{
+  "ABG": {
+    "full-form": "arterial blood gas",
+    "comment": ""
+  },
+  "ACE": {
+    "full-form": "angiotensin-converting enzyme",
+    "comment": ""
+  },
+  "ACTH": {
+    "full-form": "adrenocorticotropic hormone",
+    "comment": ""
+  },
+  "ADH": {
+    "full-form": "antidiuretic hormone",
+    "comment": ""
+  },
+  "AIDS": {
+    "full-form": "acquired immunodeficiency syndrome",
+    "comment": ""
+  },
+  "ALT": {
+    "full-form": "alanine aminotransferase",
+    "comment": "old version is SGPT"
+  },
+  "AST": {
+    "full-form": "aspartate aminotransferase",
+    "comment": "old version is SGOT"
+  },
+  "ATP": {
+    "full-form": "adenosine triphosphate",
+    "comment": ""
+  },
+  "BCG": {
+    "full-form": "bacille Calmette-Guérin",
+    "comment": ""
+  },
+  "bid": {
+    "full-form": "2 times a day",
+    "comment": ""
+  },
+  "BMR": {
+    "full-form": "basal metabolic rate",
+    "comment": ""
+  },
+  "BP": {
+    "full-form": "blood pressure",
+    "comment": ""
+  },
+  "BSA": {
+    "full-form": "body surface area",
+    "comment": ""
+  },
+  "BUN": {
+    "full-form": "blood urea nitrogen",
+    "comment": ""
+  },
+  "BR": {
+    "full-form": "bedside rounds",
+    "comment": ""
+  },
+  "BPD": {
+    "full-form": "borderline personality disorder",
+    "comment": ""
+  },
+  "C": {
+    "full-form": "Celsius; centigrade; complement",
+    "comment": ""
+  },
+  "Ca": {
+    "full-form": "calcium",
+    "comment": ""
+  },
+  "cAMP": {
+    "full-form": "cyclic adenosine monophosphate",
+    "comment": ""
+  },
+  "CBC": {
+    "full-form": "complete blood count",
+    "comment": ""
+  },
+  "cGy": {
+    "full-form": "centigray",
+    "comment": ""
+  },
+  "Ci": {
+    "full-form": "curie",
+    "comment": ""
+  },
+  "CK": {
+    "full-form": "creatine kinase",
+    "comment": ""
+  },
+  "Cl": {
+    "full-form": "chloride; chlorine",
+    "comment": ""
+  },
+  "cm": {
+    "full-form": "centimeter",
+    "comment": ""
+  },
+  "CNS": {
+    "full-form": "central nervous system",
+    "comment": ""
+  },
+  "CO2": {
+    "full-form": "carbon dioxide",
+    "comment": ""
+  },
+  "COPD": {
+    "full-form": "chronic obstructive pulmonary disease",
+    "comment": ""
+  },
+  "CPK": {
+    "full-form": "creatine phosphokinase",
+    "comment": ""
+  },
+  "CPK-MB": {
+    "full-form": "creatine phosphokinase muscle bandisoenzyme",
+    "comment": ""
+  },
+  "CPR": {
+    "full-form": "cardiopulmonary resuscitation",
+    "comment": ""
+  },
+  "CSF": {
+    "full-form": "cerebrospinal fluid",
+    "comment": ""
+  },
+  "CT": {
+    "full-form": "computed tomography",
+    "comment": ""
+  },
+  "Cu": {
+    "full-form": "cubic",
+    "comment": ""
+  },
+  "D & C": {
+    "full-form": "dilation and curettage",
+    "comment": ""
+  },
+  "dL": {
+    "full-form": "deciliter",
+    "comment": "1dL = 100 mL"
+  },
+  "DNA": {
+    "full-form": "deoxyribonucleic acid",
+    "comment": ""
+  },
+  "DTP": {
+    "full-form": "diphtheria-tetanus-pertussis(toxoids/vaccine)",
+    "comment": ""
+  },
+  "D/W": {
+    "full-form": "dextrose in water",
+    "comment": ""
+  },
+  "ECF": {
+    "full-form": "extracellular fluid",
+    "comment": ""
+  },
+  "ECG": {
+    "full-form": "electrocardiogram",
+    "comment": ""
+  },
+  "EEG": {
+    "full-form": "electroencephalogram",
+    "comment": ""
+  },
+  "ENT": {
+    "full-form": "ear nose and throat",
+    "comment": ""
+  },
+  "ERCP": {
+    "full-form": "endoscopic retrogradecholangiopancreatography",
+    "comment": ""
+  },
+  "ESR": {
+    "full-form": "erythrocyte sedimentation rate",
+    "comment": ""
+  },
+  "F": {
+    "full-form": "Fahrenheit",
+    "comment": ""
+  },
+  "FDA": {
+    "full-form": "U.S. Food and Drug Administration",
+    "comment": ""
+  },
+  "Ft": {
+    "full-form": "foot; feet",
+    "comment": "measure unit"
+  },
+  "FUO": {
+    "full-form": "fever of unknown origin",
+    "comment": ""
+  },
+  "G": {
+    "full-form": "gram",
+    "comment": ""
+  },
+  "GFR": {
+    "full-form": "glomerular filtration rate",
+    "comment": ""
+  },
+  "GI": {
+    "full-form": "gastrointestinal",
+    "comment": ""
+  },
+  "GVHD": {
+    "full-form": "Graft-versus-host disease",
+    "comment": ""
+  },
+  "G6PD": {
+    "full-form": "glucose-6-phosphate dehydrogenase",
+    "comment": ""
+  },
+  "GU": {
+    "full-form": "genitourinary",
+    "comment": ""
+  },
+  "Gy": {
+    "full-form": "gray",
+    "comment": ""
+  },
+  "H": {
+    "full-form": "hour",
+    "comment": ""
+  },
+  "Hb": {
+    "full-form": "hemoglobin",
+    "comment": ""
+  },
+  "HCl": {
+    "full-form": "hydrochloric acid; hydrochloride",
+    "comment": ""
+  },
+  "HCO3": {
+    "full-form": "bicarbonate",
+    "comment": ""
+  },
+  "Hct": {
+    "full-form": "hematocrit",
+    "comment": ""
+  },
+  "Hg": {
+    "full-form": "mercury",
+    "comment": ""
+  },
+  "HIV": {
+    "full-form": "human immunodeficiency virus",
+    "comment": ""
+  },
+  "HLA": {
+    "full-form": "human leukocyte antigen",
+    "comment": ""
+  },
+  "HMG-CoA": {
+    "full-form": "hydroxymethyl glutaryl coenzyme A",
+    "comment": ""
+  },
+  "Hz": {
+    "full-form": "hertz",
+    "comment": "cycles/second unit"
+  },
+  "hs": {
+    "full-form": "at bedtime",
+    "comment": ""
+  },
+  "ICF": {
+    "full-form": "intracellular fluid",
+    "comment": ""
+  },
+  "ICU": {
+    "full-form": "intensive care unit",
+    "comment": ""
+  },
+  "IgA": {
+    "full-form": "etc. immunoglobin A",
+    "comment": ""
+  },
+  "IL": {
+    "full-form": "interleukin",
+    "comment": ""
+  },
+  "IM": {
+    "full-form": "intramuscular(ly)",
+    "comment": ""
+  },
+  "INR": {
+    "full-form": "international normalized ratio",
+    "comment": ""
+  },
+  "IPPB": {
+    "full-form": "intermittent positive pressure breathing",
+    "comment": ""
+  },
+  "IU": {
+    "full-form": "international unit",
+    "comment": ""
+  },
+  "IV": {
+    "full-form": "intravenous(ly)",
+    "comment": ""
+  },
+  "IVU": {
+    "full-form": "intravenous urography",
+    "comment": ""
+  },
+  "K": {
+    "full-form": "potassium",
+    "comment": ""
+  },
+  "Kcal": {
+    "full-form": "kilocalorie",
+    "comment": "mean food calorie"
+  },
+  "Kg": {
+    "full-form": "kilogram",
+    "comment": ""
+  },
+  "L": {
+    "full-form": "liter",
+    "comment": ""
+  },
+  "lb": {
+    "full-form": "pound",
+    "comment": ""
+  },
+  "LDH": {
+    "full-form": "lactic dehydrogenase",
+    "comment": ""
+  },
+  "M": {
+    "full-form": "meter",
+    "comment": ""
+  },
+  "MCH": {
+    "full-form": "mean corpuscular hemoglobin",
+    "comment": ""
+  },
+  "MCHC": {
+    "full-form": "mean corpuscular hemoglobin concentration",
+    "comment": ""
+  },
+  "mCi": {
+    "full-form": "millicurie",
+    "comment": ""
+  },
+  "MCV": {
+    "full-form": "mean corpuscular volume",
+    "comment": ""
+  },
+  "mEq": {
+    "full-form": "Milliequivalent",
+    "comment": ""
+  },
+  "Mg": {
+    "full-form": "magnesium",
+    "comment": ""
+  },
+  "mg": {
+    "full-form": "milligram",
+    "comment": ""
+  },
+  "MI": {
+    "full-form": "myocardial infarction",
+    "comment": ""
+  },
+  "MIC": {
+    "full-form": "minimum inhibitory concentration",
+    "comment": ""
+  },
+  "mIU": {
+    "full-form": "milli-international unit",
+    "comment": ""
+  },
+  "mL": {
+    "full-form": "milliliter",
+    "comment": ""
+  },
+  "mm": {
+    "full-form": "millimeter",
+    "comment": ""
+  },
+  "mmol": {
+    "full-form": "millimole",
+    "comment": ""
+  },
+  "mo": {
+    "full-form": "month",
+    "comment": ""
+  },
+  "mol": {
+    "full-form": "wt molecular weight",
+    "comment": ""
+  },
+  "mOsm": {
+    "full-form": "Milliosmole",
+    "comment": ""
+  },
+  "MRI": {
+    "full-form": "magnetic resonance imaging",
+    "comment": ""
+  },
+  "N": {
+    "full-form": "nitrogen; normal",
+    "comment": "unit to measure strength of solution"
+  },
+  "Na": {
+    "full-form": "sodium",
+    "comment": ""
+  },
+  "NaCl": {
+    "full-form": "sodium chloride",
+    "comment": ""
+  },
+  "Ng": {
+    "full-form": "nanogram",
+    "comment": "also name as millimicrogram"
+  },
+  "Nm": {
+    "full-form": "nanometer",
+    "comment": "also name as millimicron"
+  },
+  "Nmol": {
+    "full-form": "nanomole",
+    "comment": ""
+  },
+  "Npo": {
+    "full-form": "nothing by mouth",
+    "comment": ""
+  },
+  "NSAID": {
+    "full-form": "nonsteroidal anti-inflammatory drug",
+    "comment": ""
+  },
+  "O2": {
+    "full-form": "oxygen",
+    "comment": ""
+  },
+  "OTC": {
+    "full-form": "over-the-counter",
+    "comment": "pharmaceuticals"
+  },
+  "oz": {
+    "full-form": "ounce",
+    "comment": ""
+  },
+  "P": {
+    "full-form": "phosphorus; pressure",
+    "comment": ""
+  },
+  "PAco2": {
+    "full-form": "alveolar carbon dioxide partial pressure",
+    "comment": ""
+  },
+  "Paco2": {
+    "full-form": "arterial carbon dioxide partial pressure",
+    "comment": ""
+  },
+  "PAo2": {
+    "full-form": "alveolar oxygen partial pressure",
+    "comment": ""
+  },
+  "Pao2": {
+    "full-form": "arterial oxygen partial pressure",
+    "comment": ""
+  },
+  "PAS": {
+    "full-form": "periodic acid-Schiff",
+    "comment": ""
+  },
+  "Pco2": {
+    "full-form": "carbon dioxide partial pressure",
+    "comment": "or tension"
+  },
+  "PCR": {
+    "full-form": "polymerase chain reaction",
+    "comment": ""
+  },
+  "PET": {
+    "full-form": "positron emission tomography",
+    "comment": ""
+  },
+  "pg": {
+    "full-form": "picogram",
+    "comment": "micromicrogram"
+  },
+  "pH": {
+    "full-form": "hydrogen ion concentration",
+    "comment": ""
+  },
+  "PMN": {
+    "full-form": "polymorphonuclear leukocyte",
+    "comment": ""
+  },
+  "po": {
+    "full-form": "orally",
+    "comment": ""
+  },
+  "Po2": {
+    "full-form": "oxygen partial pressure",
+    "comment": "or tension"
+  },
+  "PPD": {
+    "full-form": "purified protein derivative",
+    "comment": "tuberculin"
+  },
+  "ppm": {
+    "full-form": "parts per million",
+    "comment": ""
+  },
+  "prn": {
+    "full-form": "as needed",
+    "comment": ""
+  },
+  "PT": {
+    "full-form": "prothrombin time",
+    "comment": ""
+  },
+  "PTT": {
+    "full-form": "partial thromboplastin time",
+    "comment": ""
+  },
+  "q": {
+    "full-form": "every",
+    "comment": ""
+  },
+  "qid": {
+    "full-form": "4 times a day",
+    "comment": ""
+  },
+  "RA": {
+    "full-form": "rheumatoid arthritis",
+    "comment": ""
+  },
+  "RBC": {
+    "full-form": "red blood cell",
+    "comment": ""
+  },
+  "RNA": {
+    "full-form": "ribonucleic acid",
+    "comment": ""
+  },
+  "Sao2": {
+    "full-form": "arterial oxygen saturation",
+    "comment": ""
+  },
+  "SBE": {
+    "full-form": "subacute bacterial endocarditis",
+    "comment": ""
+  },
+  "sc": {
+    "full-form": "subcutaneous(ly)",
+    "comment": ""
+  },
+  "SI": {
+    "full-form": "International System of Units",
+    "comment": ""
+  },
+  "SIDS": {
+    "full-form": "sudden infant death syndrome",
+    "comment": ""
+  },
+  "SLE": {
+    "full-form": "systemic lupus erythematosus",
+    "comment": ""
+  },
+  "soln": {
+    "full-form": "solution",
+    "comment": ""
+  },
+  "sp": {
+    "full-form": "species",
+    "comment": "singular"
+  },
+  "spp": {
+    "full-form": "species",
+    "comment": "plural"
+  },
+  "sp gr": {
+    "full-form": "specific gravity",
+    "comment": ""
+  },
+  "sq": {
+    "full-form": "square",
+    "comment": ""
+  },
+  "SSRI": {
+    "full-form": "selective serotonin reuptake inhibitor",
+    "comment": ""
+  },
+  "STS": {
+    "full-form": "serologic test(s) for syphilis",
+    "comment": ""
+  },
+  "TB": {
+    "full-form": "tuberculosis",
+    "comment": ""
+  },
+  "tid": {
+    "full-form": "3 times a day",
+    "comment": ""
+  },
+  "TPN": {
+    "full-form": "total parenteral nutrition",
+    "comment": ""
+  },
+  "URI": {
+    "full-form": "upper respiratory infection",
+    "comment": ""
+  },
+  "UTI": {
+    "full-form": "urinary tract infection",
+    "comment": ""
+  },
+  "WBC": {
+    "full-form": "white blood cell",
+    "comment": ""
+  },
+  "WHO": {
+    "full-form": "World Health Organization",
+    "comment": ""
+  },
+  "wt": {
+    "full-form": "weight",
+    "comment": ""
+  },
+  "μ": {
+    "full-form": "micro-; micron",
+    "comment": ""
+  },
+  "μCi": {
+    "full-form": "microcurie",
+    "comment": ""
+  },
+  "μg": {
+    "full-form": "microgram",
+    "comment": ""
+  },
+  "μL": {
+    "full-form": "microliter",
+    "comment": ""
+  },
+  "μm": {
+    "full-form": "micrometer",
+    "comment": "also name micron"
+  },
+  "μmol": {
+    "full-form": "micromole",
+    "comment": ""
+  },
+  "μOsm": {
+    "full-form": "micro-osmole",
+    "comment": ""
+  },
+  "mμ": {
+    "full-form": "millimicron",
+    "comment": "also name nanometer"
+  }
+}
