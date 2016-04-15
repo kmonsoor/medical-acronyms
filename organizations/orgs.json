@@ -1,1 +1,494 @@
-
+{
+  "CBER": {
+    "full-form": "Center for Biologics Evaluation and Research (FDA)",
+    "comment": ""
+  },
+  "CDER": {
+    "full-form": "Center for Drug Evaluation and Research (FDA)",
+    "comment": ""
+  },
+  "CDRH": {
+    "full-form": "Center for Devices and Radiological Health (FDA)",
+    "comment": ""
+  },
+  "CFSAN": {
+    "full-form": "Center for Food Safety and Applied Nutrition (FDA)",
+    "comment": ""
+  },
+  "CIAC": {
+    "full-form": "Computer Incident Advisory Capability (U.S. Department of Energy)",
+    "comment": ""
+  },
+  "CIOMS": {
+    "full-form": "Council for International Organizations of Medical Sciences (WHO)",
+    "comment": ""
+  },
+  "CIT": {
+    "full-form": "Center for Information Technology (NIH)",
+    "comment": ""
+  },
+  "CMO": {
+    "full-form": "contract management organization",
+    "comment": ""
+  },
+  "CRO": {
+    "full-form": "clinical research organization",
+    "comment": ""
+  },
+  "CSDD": {
+    "full-form": "Center for the Study of Drug Development (Tufts University)",
+    "comment": ""
+  },
+  "CSR": {
+    "full-form": "Center for Scientific Review (NIH)",
+    "comment": ""
+  },
+  "CVM": {
+    "full-form": "Center for Veterinary Medicine (FDA)",
+    "comment": ""
+  },
+  "DEA": {
+    "full-form": "Drug Enforcement Administration (U.S. Department of Justice)",
+    "comment": ""
+  },
+  "DHHS": {
+    "full-form": "Department of Health and Human Services (U.S.)",
+    "comment": ""
+  },
+  "DoD": {
+    "full-form": "Department of Defense (U.S.)",
+    "comment": ""
+  },
+  "DOE": {
+    "full-form": "Department of Energy (U.S.)",
+    "comment": ""
+  },
+  "DOJ": {
+    "full-form": "Department of Justice (U.S.)",
+    "comment": ""
+  },
+  "GPO": {
+    "full-form": "group purchasing organization",
+    "comment": ""
+  },
+  "HHS": {
+    "full-form": "Health and Human Services (U.S. Department of)",
+    "comment": ""
+  },
+  "HMO": {
+    "full-form": "health maintenance organization",
+    "comment": ""
+  },
+  "ICAO": {
+    "full-form": "International Civil Aviation Organization",
+    "comment": ""
+  },
+  "IPRO": {
+    "full-form": "Independent Pharmaceutical Research Organization",
+    "comment": ""
+  },
+  "ISO": {
+    "full-form": "International Organization for Standardization",
+    "comment": ""
+  },
+  "JCAHO": {
+    "full-form": "Joint Commission on Accreditation of Health Care Organizations",
+    "comment": ""
+  },
+  "KOS": {
+    "full-form": "knowledge organization system",
+    "comment": ""
+  },
+  "MHW": {
+    "full-form": "Ministry of Health and Welfare (Japan's equivalent to the FDA)",
+    "comment": ""
+  },
+  "ATF": {
+    "full-form": "Bureau of Alcohol, Tobacco and Firearms (U.S. Department of Justice)",
+    "comment": ""
+  },
+  "BATF": {
+    "full-form": "Bureau of Alcohol, Tobacco and Firearms (U.S. Department of Justice)",
+    "comment": ""
+  },
+  "JMO": {
+    "full-form": "Japanese Maintenance Organization",
+    "comment": ""
+  },
+  "MCO": {
+    "full-form": "managed care organization",
+    "comment": ""
+  },
+  "MEMO": {
+    "full-form": "Medicines Evaluation and Monitoring Organization",
+    "comment": ""
+  },
+  "MSSO": {
+    "full-form": "Maintenance and Support Services Organization",
+    "comment": ""
+  },
+  "NCBI": {
+    "full-form": "National Center for Biotechnology Information (NCI)",
+    "comment": ""
+  },
+  "NCFST": {
+    "full-form": "National Center for Food Safety and Technology",
+    "comment": ""
+  },
+  "NIDRR": {
+    "full-form": "National Institute on Disability and Rehabilitation Research (U.S. Department of Education)",
+    "comment": ""
+  },
+  "USBR": {
+    "full-form": "Bureau of Reclamation (U.S. Department of the Interior)",
+    "comment": ""
+  },
+  "USCS": {
+    "full-form": "United States Customs Service (U.S. Department of Homeland Security)",
+    "comment": ""
+  },
+  "USPTO": {
+    "full-form": "United States Patent and Trademark Office (U.S. Department of Commerce)",
+    "comment": ""
+  },
+  "NGO": {
+    "full-form": "non-governmental organization",
+    "comment": ""
+  },
+  "PTO": {
+    "full-form": "Patent and Trademark Office (U.S. Department of Commerce)",
+    "comment": ""
+  },
+  "SMO": {
+    "full-form": "site management organization",
+    "comment": ""
+  },
+  "TMO": {
+    "full-form": "trial management organization",
+    "comment": ""
+  },
+  "BEA": {
+    "full-form": "Bureau of Economic Analysis (U.S. Department of Commerce)",
+    "comment": ""
+  },
+  "BfArM": {
+    "full-form": "Bundesinstitut fur Arzneimittel und Medizinprodukte (German Ministry of Health)",
+    "comment": ""
+  },
+  "CBP": {
+    "full-form": "Customs and Border Protection (U.S. Department of Homeland Security)",
+    "comment": ""
+  },
+  "CCR": {
+    "full-form": "Center for Cancer Research (NCI)",
+    "comment": ""
+  },
+  "CEDR": {
+    "full-form": "Comprehensive Epidemiologic Data Resource (U.S. Department of Energy)",
+    "comment": ""
+  },
+  "CHAMPVA": {
+    "full-form": "Civilian Health and Medical Program of the Department of Veterans Affairs",
+    "comment": ""
+  },
+  "NCCAM": {
+    "full-form": "National Center for Complementary and Alternative Medicine (NIH)",
+    "comment": ""
+  },
+  "NCCDPHP": {
+    "full-form": "National Center for Chronic Disease Prevention and Health Promotion (CDC)",
+    "comment": ""
+  },
+  "NCEH": {
+    "full-form": "National Center for Environmental Health (CDC)",
+    "comment": ""
+  },
+  "NCHM": {
+    "full-form": "National Center for Health Marketing (CDC)",
+    "comment": ""
+  },
+  "NCHS": {
+    "full-form": "National Center for Health Statistics (CDC)",
+    "comment": ""
+  },
+  "NCHSTP": {
+    "full-form": "National Center for HIV, STD, and TB Prevention (CDC)",
+    "comment": ""
+  },
+  "NCID": {
+    "full-form": "National Center for Infectious Diseases (CDC)",
+    "comment": ""
+  },
+  "NCIE": {
+    "full-form": "National Center for Import and Export (USDA)",
+    "comment": ""
+  },
+  "NCIPC": {
+    "full-form": "National Center for Injury Prevention and Control (CDC)",
+    "comment": ""
+  },
+  "NCPHI": {
+    "full-form": "National Center for Public Health Informatics (CDC)",
+    "comment": ""
+  },
+  "NCRR": {
+    "full-form": "National Center for Research Resources (NIH)",
+    "comment": ""
+  },
+  "NCTR": {
+    "full-form": "National Center for Toxicological Research (FDA)",
+    "comment": ""
+  },
+  "NHW": {
+    "full-form": "National Health and Welfare Department (Canada's equivalent of DHHS)",
+    "comment": ""
+  },
+  "NIST": {
+    "full-form": "National Institute of Standards and Technology (U.S. Department of Commerce)",
+    "comment": ""
+  },
+  "OSHA": {
+    "full-form": "Occupational Safety and Health Administration (U.S. Department of Labor)",
+    "comment": ""
+  },
+  "UNESCO": {
+    "full-form": "United Nations Educational, Scientific and Cultural Organization",
+    "comment": ""
+  },
+  "USDA": {
+    "full-form": "Department of Agriculture (U.S.)",
+    "comment": ""
+  },
+  "VA": {
+    "full-form": "Department of Veterans Affairs (U.S.)",
+    "comment": ""
+  },
+  "CMHS": {
+    "full-form": "Center for Mental Health Services (SAMHSA)",
+    "comment": ""
+  },
+  "CMP/ HMO": {
+    "full-form": "comprehensive medical plan/health maintenance organization",
+    "comment": ""
+  },
+  "CNPP": {
+    "full-form": "Center for Nutrition Policy and Promotion (USDA)",
+    "comment": ""
+  },
+  "CRC": {
+    "full-form": "Civil Rights Center (U.S. Department of Labor)",
+    "comment": ""
+  },
+  "CSAP": {
+    "full-form": "Center for Substance Abuse Prevention (SAMHSA)",
+    "comment": ""
+  },
+  "CSAT": {
+    "full-form": "Center for Substance Abuse Treatment (SAMHSA)",
+    "comment": ""
+  },
+  "DD": {
+    "full-form": "Department of Drugs (Swedish Regulatory Agency)",
+    "comment": ""
+  },
+  "DHS": {
+    "full-form": "Department of Homeland Security (U.S.)",
+    "comment": ""
+  },
+  "DOC": {
+    "full-form": "Department of Commerce (U.S.)",
+    "comment": ""
+  },
+  "DOI": {
+    "full-form": "Department of the Interior (U.S.)",
+    "comment": ""
+  },
+  "DOS": {
+    "full-form": "Department of State (U.S.)",
+    "comment": ""
+  },
+  "EAR": {
+    "full-form": "Export Administration Regulations (U.S. Department of Commerce)",
+    "comment": ""
+  },
+  "FAO": {
+    "full-form": "Food and Agriculture Organization of the United Nations",
+    "comment": ""
+  },
+  "HCO": {
+    "full-form": "health care organization",
+    "comment": ""
+  },
+  "IA": {
+    "full-form": "Import Administration (U.S. Department of Commerce)",
+    "comment": ""
+  },
+  "CoE": {
+    "full-form": "Center of Excellence",
+    "comment": ""
+  },
+  "FMS": {
+    "full-form": "Financial Management Service (U.S. Department of the Treasury)",
+    "comment": ""
+  },
+  "MEO": {
+    "full-form": "most efficient organization",
+    "comment": ""
+  },
+  "SDO": {
+    "full-form": "Standards Development Organization",
+    "comment": ""
+  },
+  "NCHGR": {
+    "full-form": "National Center for Human Genome Research (NIH)",
+    "comment": ""
+  },
+  "NCNR": {
+    "full-form": "National Center for Nursing Research (NIH)",
+    "comment": ""
+  },
+  "IRS": {
+    "full-form": "Internal Revenue Service (U.S. Department of the Treasury)",
+    "comment": ""
+  },
+  "DHSS": {
+    "full-form": "Department of Health and Social Security (U.K.)",
+    "comment": ""
+  },
+  "PAHO": {
+    "full-form": "Pan American Health Organization (WHO)",
+    "comment": ""
+  },
+  "DOT": {
+    "full-form": "Department of Transportation (U.S.)",
+    "comment": ""
+  },
+  "FAA": {
+    "full-form": "Federal Aviation Administration (U.S. Department of Transportation)",
+    "comment": ""
+  },
+  "FBI": {
+    "full-form": "Federal Bureau of Investigation (U.S. Department of Justice)",
+    "comment": ""
+  },
+  "NASDA": {
+    "full-form": "National Association of State Departments of Agriculture",
+    "comment": ""
+  },
+  "BIA": {
+    "full-form": "Bureau of Indian Affairs (U.S. Department of the Interior)",
+    "comment": ""
+  },
+  "BLM": {
+    "full-form": "Bureau of Land Management (U.S. Department of the Interior)",
+    "comment": ""
+  },
+  "DOEd": {
+    "full-form": "Department of Education (U.S.)",
+    "comment": ""
+  },
+  "DUSM": {
+    "full-form": "Deputy United States Marshal (U.S. Department of Justice)",
+    "comment": ""
+  },
+  "FPS": {
+    "full-form": "Federal Protective Service (Department of Homeland Security)",
+    "comment": ""
+  },
+  "HUD": {
+    "full-form": "Department of Housing and Urban Development (U.S.)",
+    "comment": ""
+  },
+  "ICE": {
+    "full-form": "Immigration and Customs Enforcement (Department of Homeland Security)",
+    "comment": ""
+  },
+  "TSA": {
+    "full-form": "Transportation Security Administration (Department of Homeland Security)",
+    "comment": ""
+  },
+  "USFS": {
+    "full-form": "United States Forest Service (U.S. Department of Agriculture)",
+    "comment": ""
+  },
+  "VOAD": {
+    "full-form": "Volunteer Organizations Active in a Disaster",
+    "comment": ""
+  },
+  "NEP": {
+    "full-form": "National Exercise Program (Department of Homeland Security)",
+    "comment": ""
+  },
+  "NISAC": {
+    "full-form": "National Infrastructure Simulation and Analysis Center (Department of Homeland Security)",
+    "comment": ""
+  },
+  "NPS": {
+    "full-form": "National Park Service (Department of the Interior)",
+    "comment": ""
+  },
+  "NRP": {
+    "full-form": "National Response Plan (Department of Homeland Security)",
+    "comment": ""
+  },
+  "NVOAD": {
+    "full-form": "National Volunteer Organizations Active in Disaster",
+    "comment": ""
+  },
+  "OSM": {
+    "full-form": "Office of Surface Mining (Department of the Interior)",
+    "comment": ""
+  },
+  "SCRAG": {
+    "full-form": "Senior Civilian Representative of the Attorney Gemeral (Department of Homeland Security)",
+    "comment": ""
+  },
+  "BCA": {
+    "full-form": "Blood Center of America",
+    "comment": ""
+  },
+  "CHISSA": {
+    "full-form": "Center for High Integrity Software System Assurance",
+    "comment": ""
+  },
+  "DOL": {
+    "full-form": "Department of Labor (U.S.)",
+    "comment": ""
+  },
+  "HEO": {
+    "full-form": "Hispanic Employee Organization",
+    "comment": ""
+  },
+  "OPO": {
+    "full-form": "Organ Procurement Organization",
+    "comment": ""
+  },
+  "CFG": {
+    "full-form": "Center for Functional Genomics (NCTR)",
+    "comment": ""
+  },
+  "CAAT": {
+    "full-form": "Center for Alternatives to Animal Testing (Johns Hopkins)",
+    "comment": ""
+  },
+  "CSPI": {
+    "full-form": "Center for Science in the Public Interest",
+    "comment": ""
+  },
+  "HPO": {
+    "full-form": "high performance organization",
+    "comment": ""
+  },
+  "SCAW": {
+    "full-form": "Scientists Center for Animal Welfare",
+    "comment": ""
+  },
+  "AOPC": {
+    "full-form": "Agency/Organization Program Coordinator",
+    "comment": ""
+  },
+  "CTP": {
+    "full-form": "Center for Tobacco Products",
+    "comment": ""
+  }
+}
